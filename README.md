@@ -1,2 +1,2 @@
-# U2018-
-Template of HUST_DS_2019_Spring
+# U201872069
+Hi all! This is a template of HUST_DS_2019_Spring repo.
